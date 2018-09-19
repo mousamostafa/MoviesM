@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="popular">Popular Movies</string>
+    <string name="top">Top Rated Movies</string>
+    <string name="Detail">Movie Details</string>
+    <string name="sort_by">Sort_by</string>
+    <string name="favourite">Favourite Movies</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="trailer"> Trailer :</string>
+    <string name="reviews">Reviews :</string>
+    <string name="pathrevew">http://api.themoviedb.org/3/movie/</string>
+    <string name="pathpostr">http://image.tmdb.org/t/p/w342/</string>
+    <string name="pathimg">http://image.tmdb.org/t/p/w185/</string>
+    <string name="overview">Overview :</string>
+    <string name="top_ratedsort">Top_rated</string>
+    <string name="popularsort">Popular</string>
+    <string name="favouritesort">Favourite</string>
+</resources>
